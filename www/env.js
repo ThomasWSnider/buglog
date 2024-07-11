@@ -1,3 +1,3 @@
-export const domain = 'dev-py6tvhpx3n4fh4n4.us.auth0.com'
-export const clientId = 'JiCrmJDCrsZeHdCO6ictDUucRkF5jqwc'
-export const audience = 'https://newapi.com'
+export const domain = 'dev-fyu7pxzwsr65gvex.us.auth0.com'
+export const clientId = 'mimbhClKKzPQJu5oe4pywHfD7PT8dHzv'
+export const audience = 'https://mirage/'
